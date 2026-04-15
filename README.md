@@ -11,7 +11,7 @@ The repository is organized cleanly by Patterns.
 
 * **Two Pointer**
   * `Two_Sum.cpp`
-  * `Removing_Duplicates_from_sorted_array`
+  * `Removing_Duplicates_from_sorted_array.cpp`
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
