@@ -7,10 +7,11 @@ The questions are from LeetCode
 * **C++** (Primary language for core logic and performance)
 
 ## 📂 Repository Structure
-The repository is organized cleanly by data structure and algorithm topics. 
+The repository is organized cleanly by Patterns. 
 
-* **Array**
+* **Two Pointer**
   * `Two_Sum.cpp`
+  * `Removing_Duplicates_from_sorted_array`
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
