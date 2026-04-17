@@ -15,6 +15,7 @@ The repository is organized cleanly by Patterns.
   * `Valid_palindrome.cpp`
   * `Squares_of_a_sorted_array.cpp`
   * `Reverse_vowles_of_a_string.cpp`
+  * `Two_sum_sorted_array.cpp - Q.no-167`
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
