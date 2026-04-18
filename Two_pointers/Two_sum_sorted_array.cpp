@@ -21,8 +21,6 @@ using namespace std;
     return solution;
 } */ //->this is also correct but it takes too much time, Time Limit error  
 
-// Leetcode Q.No- 167 Two Sum II - Input Array Is Sorted
-
 vector<int> twoSum(vector<int>& numbers, int target) {
     int i = 0; 
     int j = numbers.size() - 1; 
