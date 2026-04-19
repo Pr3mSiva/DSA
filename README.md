@@ -17,6 +17,7 @@ The repository is organized cleanly by Patterns.
   * `Reverse_vowles_of_a_string.cpp`
   * `Two_sum_sorted_array.cpp - Q.no-167`
   * `Move_zeros.cpp - Q.no- 283`
+  * `Container_with_most_water.cpp - Q.no- 11`
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
