@@ -1,1 +1,2 @@
-1. Question no-347. Top K Frequent Elements
+1. Question no-347. Top K Frequent Elements, Learned how to sort a unordered map by converting into vector and using a custom lambda function over sort().
+2.Question no-271, this is a premium question on leetcode. Encode and Decode a string.
