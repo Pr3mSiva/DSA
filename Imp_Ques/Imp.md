@@ -1,2 +1,14 @@
-1. Question no-347. Top K Frequent Elements, Learned how to sort a unordered map by converting into vector and using a custom lambda function over sort().
-2.Question no-271, this is a premium question on leetcode. Encode and Decode a string.
+# Important Questions
+
+## 1. Top K Frequent Elements — LeetCode 347
+
+**What I learned:**
+- How to sort an `unordered_map`
+- Convert the map into a `vector`
+- Use a custom lambda function with `sort()`
+
+## 2. Encode and Decode Strings — LeetCode 271
+
+> Premium question on LeetCode.
+
+**Topic:** String encoding and decoding
