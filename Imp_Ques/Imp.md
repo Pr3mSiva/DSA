@@ -2,7 +2,7 @@
 
 ## 1. Top K Frequent Elements — LeetCode 347
 
-**What I learned:**
+**Things Learned:**
 - How to sort an `unordered_map`
 - Convert the map into a `vector`
 - Use a custom lambda function with `sort()`
@@ -12,3 +12,10 @@
 > Premium question on LeetCode.
 
 **Topic:** String encoding and decoding
+
+## 3. Valid Sudoku - LeetCode 36
+
+**Things Learned:**
+- How to use sets
+- How to hadle and compare multiple sets at a time
+- How count() actually works
