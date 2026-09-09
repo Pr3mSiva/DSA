@@ -19,3 +19,9 @@
 - How to use sets
 - How to hadle and compare multiple sets at a time
 - How count() actually works
+
+## 4. 3Sum - LeetCode 15
+
+**Things Learned**
+- How to remove duplicates
+- Managing out of bound array/vector
