@@ -25,7 +25,13 @@ using namespace std;
 vector<int> twoSum(vector<int>& numbers, int target) {
     int left = 0;
     int right = numbers.size() - 1;
-    
+    /*
+    --> we are using simple logic to reduce time
+        1. target is 18
+        2.left=2 and right=15, sum=17<18 so left++
+        3.left=7 and right=15, sum=22>18 so right--
+        4.left=7 and right=11, sum=18 found!!!
+    */
     while(left < right) {
         int currentSum = numbers[left] + numbers[right];
         
