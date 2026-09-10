@@ -73,6 +73,7 @@ int trap(vector<int>& height) {
     int area=0;
     while(left<right) {
         if(left_max < right_max || left_max == right_max) {
+            // We can do this also " if(left_max <= right_max); "
             left ++;
             left_max = max(left_max, height[left]);
             area += left_max - height[left];
