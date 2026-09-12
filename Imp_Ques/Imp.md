@@ -25,3 +25,10 @@
 **Things Learned**
 - How to remove duplicates
 - Managing out of bound array/vector
+
+## 5. Longest Substring Without Repeating Characters - LeetCode 3
+
+**Things Learned**
+- Better use of sets
+- Better understanding of .count(), .insert(), .erase()
+- How to implement maps, sets inside other patterns
