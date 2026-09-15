@@ -11,6 +11,7 @@ The repository is organized cleanly by Patterns.
 
 * **Two Pointer**
 * **Arrays and Hashing**
+* **Sliding Window**
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
