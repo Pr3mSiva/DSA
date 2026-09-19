@@ -13,6 +13,8 @@ The repository is organized cleanly by Patterns.
 * **Arrays and Hashing**
 * **Sliding Window**
 * **Stack**
+* **New Topics** - All new topics that i learn before I start solving new patterns.
+* **Imp_Ques** - All important questions which has diffrent approach than usual.
 
 ## 🎯 My Goals
 * Master core data structures and algorithmic patterns.
