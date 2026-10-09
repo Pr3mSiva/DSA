@@ -13,6 +13,7 @@ The repository is organized cleanly by Patterns.
 * **Arrays and Hashing**
 * **Sliding Window**
 * **Stack**
+* **Binary Search**
 * **New Topics** - All new topics that i learn before I start solving new patterns.
 * **Imp_Ques** - All important questions which has diffrent approach than usual.
 
